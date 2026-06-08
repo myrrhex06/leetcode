@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/myrrhex06/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/myrrhex06/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/myrrhex06/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1587-bank-account-summary-ii](https://github.com/myrrhex06/leetcode/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
